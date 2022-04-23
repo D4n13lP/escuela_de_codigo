@@ -49,7 +49,9 @@ baja al final del mes. Describe tal situación usando operadores
 relacionales.
 
 ACREDOR A BONO = PUNTUAL == 30
+
 SUSPENSION 1 DIA = FALTA == 2
+
 BAJA FINAL DEL MES = FALTA >= 3
 
 Reto. Analiza el problema y selecciona la opción que consideres que lo
