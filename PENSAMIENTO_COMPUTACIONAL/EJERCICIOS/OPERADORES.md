@@ -48,10 +48,16 @@ notifica que ha sido acreedor al bono de puntualidad. Si el empleado tiene
 baja al final del mes. Describe tal situación usando operadores
 relacionales.
 
+ACREDOR A BONO = PUNTUAL == 30
+SUSPENSION 1 DIA = FALTA == 2
+BAJA FINAL DEL MES = FALTA >= 3
+
 Reto. Analiza el problema y selecciona la opción que consideres que lo
 resuelve:
 “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es
 mayor que “F”. ¿Cuál es el menor de todos?
+
+C > D;   E<F;  G<E
 
 3^2 – (10/(8-4))+9 > 100 
 
