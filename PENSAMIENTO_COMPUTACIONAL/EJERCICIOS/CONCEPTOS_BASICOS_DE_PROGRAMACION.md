@@ -53,4 +53,4 @@ de todo tipo, ejemplos: Instagram, Netflix, Panda 3D, entre otros.2​ Se trata 
 
 a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
 
-![image](https://es.wikipedia.org/wiki/Python#/media/Archivo:Python-logo-notext.svg)
+![image](https://cosasdedevs.com/media/sections/images/python.png)
