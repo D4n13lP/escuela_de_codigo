@@ -55,7 +55,7 @@ IMPRIMIR "SU EDAD ES: AÑO"
 
 deberá pedirse, determine el porcentaje de incremento del producto. 
 
-#Algoritmo promedio de 4 calificaciones 30/Abril/2022
+# Algoritmo promedio de 4 calificaciones 30/Abril/2022
 
 Paso 1Inicio 
 
