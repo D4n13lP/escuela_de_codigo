@@ -36,19 +36,15 @@
 
   4. Asignar (letra)
 
-  5. Condiion Si (letra==s) entonces 
+  5. Condiion Si (letra==s | letra==n ) entonces 
 
-  6. Mostrar ("ha Sngresado S")
-
-  7. Condicion Si (letra==n) entonces
+  7. Condicion Si (letra == n) entonces
 
   8. Mostrar ("Ha ingresado N")
 
-  9. Condicion Si (letra != s) entonces
+  9. Condicion Si (letra == s) entonces
 
-  10. Mostrar("Solo se acepta caracter S o N")
-
-  11. Condicion Si (letra != n) entonces
+  11. Mostrar ("Ha ingresado S")
 
   12. Mostrar("Solo se acepta caracter S o N")
 
