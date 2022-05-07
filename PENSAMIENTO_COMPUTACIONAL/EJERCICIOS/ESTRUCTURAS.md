@@ -23,7 +23,7 @@
 
   6. Fin
 
-![image](https://user-images.githubusercontent.com/104279688/167275059-be5d0e88-963f-4bea-8498-b097e513e94b.png)
+![image](https://user-images.githubusercontent.com/104279688/167275490-7d89a58b-799f-4811-949b-5daa3e61b38f.png)
 
 
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
