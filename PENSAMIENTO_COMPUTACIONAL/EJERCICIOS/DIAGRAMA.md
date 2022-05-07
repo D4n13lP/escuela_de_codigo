@@ -15,7 +15,7 @@
 
 5.) asignar(met)
 
-6.) multi=met*yarda
+6.) mult=met*yarda
 
 7.) mostrar (met "equivalen a", multi "yardas")
 
