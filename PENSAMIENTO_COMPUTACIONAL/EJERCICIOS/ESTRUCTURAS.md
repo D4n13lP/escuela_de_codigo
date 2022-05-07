@@ -11,15 +11,17 @@
 
   4. Asignar (numero)
 
-  5. Condicion Si numero<0 entonces 
+  5. Si numero<0 entonces 
 
-  6. Mostrar ("El numero es negativo")
+         Mostrar ("El numero es negativo")
 
-  7. Condicion Si (numero>=0) entonces
+            Sino (numero>=0) entonces
   
-  8. Mostrar ("El numero es positivo") 
+                Mostrar ("El numero es positivo")
 
-  9. Fin
+     finsi
+
+  6. Fin
 
 ![image](https://user-images.githubusercontent.com/104279688/167275059-be5d0e88-963f-4bea-8498-b097e513e94b.png)
 
