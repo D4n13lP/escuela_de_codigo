@@ -21,6 +21,9 @@
 
   9. Fin
 
+![image](https://user-images.githubusercontent.com/104279688/167275059-be5d0e88-963f-4bea-8498-b097e513e94b.png)
+
+
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
 
   1. Inicio 
