@@ -40,20 +40,48 @@
 
   5. Condiion Si (letra==s | letra==n ) entonces 
 
-  7. Condicion Si (letra == n) entonces
+  6. Condicion Si (letra == n) entonces
 
-  8. Mostrar ("Ha ingresado N")
+         Mostrar ("Ha ingresado N")
+         
+         finsi
 
-  9. Condicion Si (letra == s) entonces
+  7. Condicion Si (letra == s) entonces
 
-  11. Mostrar ("Ha ingresado S")
+         Mostrar ("Ha ingresado S")
+         
+  8. Sino
 
-  12. Mostrar("Solo se acepta caracter S o N")
+         Mostrar("Solo se acepta caracter S o N")
 
-  13. Fin
+  13. Finsi
 
-  10 Mostrar 
+  14. Fin
+  
 * Un programa que pida una letra y detecte si es una vocal. 
+
+  1. Inicio
+  
+  2. Declarar (a, e, i, o, u, letra)char; 
+
+  3. Mostrar ("Ingrese una letra");
+
+  4. Asignar (letra);
+
+  5. Si (letra == a || letra == e || letra == i || letra == o || letra == u) entonces 
+
+         Mostrar ("La letra que ingresaste es vocal");
+            
+            finsi
+  7. Sino 
+
+         Mostrar ("La letra que ingresaste es consonante");
+         
+          finsi
+          
+  8. Fin
+
+
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
