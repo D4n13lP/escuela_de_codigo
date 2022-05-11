@@ -43,10 +43,8 @@
   6. Condicion Si (letra == n) entonces
 
          Mostrar ("Ha ingresado N")
-         
-         finsi
 
-  7. Condicion Si (letra == s) entonces
+         Sino entonces
 
          Mostrar ("Ha ingresado S")
          
@@ -54,9 +52,9 @@
 
          Mostrar("Solo se acepta caracter S o N")
 
-  13. Finsi
+  9. Finsi
 
-  14. Fin
+  10. Fin
   
 * Un programa que pida una letra y detecte si es una vocal. 
 
