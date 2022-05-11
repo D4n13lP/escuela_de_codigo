@@ -80,6 +80,8 @@
           finsi
           
   8. Fin
+  9. ![image](https://user-images.githubusercontent.com/104279688/167959130-db0aa603-1999-4247-98d6-65e63e836fe5.png)
+
 
 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
