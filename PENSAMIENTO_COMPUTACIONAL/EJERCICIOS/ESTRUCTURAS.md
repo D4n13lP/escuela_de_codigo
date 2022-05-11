@@ -62,7 +62,7 @@
 
   1. Inicio
   
-  2. Declarar (a, e, i, o, u, letra)char; 
+  2. Declarar (v1 = a, v2 = e, v3 = i, v4 = o, v5 = u, letra)char; 
 
   3. Mostrar ("Ingrese una letra");
 
