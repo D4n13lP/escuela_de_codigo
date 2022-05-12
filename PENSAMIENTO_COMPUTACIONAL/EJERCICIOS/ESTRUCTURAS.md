@@ -102,7 +102,73 @@
 
   8. Asignar (N3)
 
-  9. Si (n1 < n2) entonces
+  9. Si (n1 < n2 && n1 <n3) entonces
+
+         Asignar (lv1 = n1)
+         
+         si(n2 < n3) entonces
+         
+         Asignar (lv2 = n2)
+         
+         Asignar (lv3 = n3)
+         
+         sino entonces 
+         
+         Asignar (lv2 = n3)
+         
+         Asignar (lv3 = n2)
+         
+         FinSi
+
+     Sino entonces
+          
+         Si (n2 < n1 && n2 <n3) entonces
+
+         Asignar (lv1 = n2)
+         
+         si(n1 < n3) entonces
+         
+         Asignar (lv2 = n1)
+         
+         Asignar (lv3 = n3)
+         
+         sino entonces 
+         
+         Asignar (lv2 = n3)
+         
+         Asignar (lv3 = n1)
+         
+         FinSi
+         
+     Sino enttonces
+     
+         Si (n3 < n1 && n3 < n2) entonces
+
+         Asignar (lv1 = n3)
+         
+         si(n1 < n2) entonces
+         
+         Asignar (lv2 = n1)
+         
+         Asignar (lv3 = n2)
+         
+         sino entonces 
+         
+         Asignar (lv2 = n2)
+         
+         Asignar (lv3 = n1)
+         
+         FinSi
+     
+     FinSi
+     
+  10. Mostrar (El orden ascendente de los numeros que ingreso es:)
+
+  11. Mostrar (lv1)
+
+  12. Mostrar (lv2)
+
+  13. Mostrar (lv3)
      
          
          
